@@ -126,7 +126,7 @@ function App() {
           </div>
           <div className="products-menu-content">
             <a
-              href="https://app.chainback.org/"
+              href="https://app-chainback-org.vercel.app/"
               className="products-menu-link-container"
             >
               <span className="products-menu-link-icon">
@@ -135,7 +135,7 @@ function App() {
               <span className="products-menu-link">Chainback Storage</span>
             </a>
             <a
-              href="https://cloud.chainback.org/"
+              href="#"
               className="products-menu-link-container"
             >
               <span className="products-menu-link-icon">
@@ -144,7 +144,7 @@ function App() {
               <span className="products-menu-link">Chainback Cloud</span>
             </a>
             <a
-              href="https://yanabot.io/"
+              href="#"
               className="products-menu-link-container"
             >
               <span className="products-menu-link-icon">
